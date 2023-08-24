@@ -1,5 +1,5 @@
 //AUTHOR:K.RAKSHANA KUMARI DATE:8-7-23
-//debug the code
+//Debug the code
 #include <bits/stdc++.h>
 using namespace std;
 
